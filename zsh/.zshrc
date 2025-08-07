@@ -34,6 +34,11 @@
 # SAVEHIST=10000
 # setopt appendhistory
 
+# bindkey '^p' history-search-backward
+# bindkey '^n' history-search-forward
+# bindkey '^[w' kill-region
+
+
 # Enable vim mode
 bindkey -v
 
